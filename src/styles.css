@@ -1,0 +1,18 @@
+body {
+    background: #F8E8A6;
+    text-align: center;
+}
+
+h1,
+p,
+a {
+    padding: 10px;
+}
+
+a {
+    color:#008000;
+}
+
+.email {
+    padding: 0;
+}
